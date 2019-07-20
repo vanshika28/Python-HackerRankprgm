@@ -1,0 +1,6 @@
+a=float(input())
+b=float(input())
+x=int(a//b)
+y=(a/b)
+print(x)
+print(y)
